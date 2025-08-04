@@ -3,6 +3,7 @@ import streamlit as st
 import requests
 import time
 import requests
+import pickle
 
 
 # Function to fetch movie poster with retries and timeout
